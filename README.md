@@ -11,6 +11,11 @@ The functions impelemented in this repo is basically classified into 2 parts bas
 - ** FindAndRemove
 - ** IsMember
 - ** PathFinding algorithm
+ ### Permutation Function and its related functions
+- ** permutates - shows all the permutes
+- ** remove - remove the elected elements from the list
+- ** no_of_permute - tells number of ways mathematically n! / (n-r)!
+- ** length - tells number of elemets in list which is n so that it can be used in no_of_permute
 ## 🛠️ Installation & Setup
 ### 1️⃣ **Clone the Repository**
 ```sh
