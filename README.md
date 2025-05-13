@@ -2,19 +2,19 @@
 ## 🚀 Functions Overview
 The functions impelemented in this repo is basically classified into 2 parts based on the approach
  ### Recursive approach below are functions implemented in recursion
-- ** Zip function 
-- ** Zipwith Function
-- ** Repeat
-- ** Generate
+- **Zip function** 
+- **Zipwith Function**
+- **Repeat**
+- **Generate
  ### Non determnsitic basically utlizing metta's collapse and superpose concepts
-- ** FindAndReplace
-- ** FindAndRemove
-- ** IsMember
-- ** PathFinding algorithm
+- **FindAndReplace**
+- **FindAndRemove**
+- **IsMember**
+- **PathFinding algorithm**
  ### Permutation Function and its related functions
-- ** permutates - shows all the permutes
-- ** remove - remove the elected elements from the list
-- ** no_of_permute - tells number of ways mathematically n! / (n-r)!
+- **permutates** - shows all the permutes
+- **remove** - remove the elected elements from the list
+- **no_of_permute** - tells number of ways mathematically n! / (n-r)!
 - ** length - tells number of elemets in list which is n so that it can be used in no_of_permute
 ## 🛠️ Installation & Setup
 ### 1️⃣ **Clone the Repository**
